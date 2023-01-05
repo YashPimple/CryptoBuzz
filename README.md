@@ -6,7 +6,7 @@
 
 ## Introduction
  
- CrptoBuzz is a real-time cryptocurrency tracker. It helps us to know actually values of any Crypto around the world along with its Market cap value and Daily changes in it through Graph integration also it provide real-time news around all the cryptocurrency to keep user updated.
+CrptoBuzz is a real-time cryptocurrency tracker. It helps us to know actually values of any Crypto around the world along with its Market cap value and Daily changes in it through Graph integration also it provide real-time news around all the cryptocurrency to keep user updated.
 
 ## Accomplishments that I'm proud of
 Real-time data analysis was a very proud moment for our team as this was our first exposure towards web scraping, rather than data retrieval from a database.
